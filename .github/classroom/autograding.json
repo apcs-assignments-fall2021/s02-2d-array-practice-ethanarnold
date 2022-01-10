@@ -1,0 +1,74 @@
+{
+  "tests": [
+    {
+      "name": "testCountOdds",
+      "setup": "",
+      "run": "./gradlew clean test --tests MyTests.testCountOdds",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "testFindLargest",
+      "setup": "",
+      "run": "./gradlew clean test --tests MyTests.testFindLargest",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "testLeftShift",
+      "setup": "",
+      "run": "./gradlew clean test --tests MyTests.testLeftShift",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "testArrayBuilder",
+      "setup": "",
+      "run": "./gradlew clean test --tests MyTests.testArrayBuilder",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "testMean",
+      "setup": "",
+      "run": "./gradlew clean test --tests MyTests.testMean",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "testMedian",
+      "setup": "",
+      "run": "./gradlew clean test --tests MyTests.testMedian",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "testMode",
+      "setup": "",
+      "run": "./gradlew clean test --tests MyTests.testMode",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    }
+  ]
+}
